@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>GSM Ding</title>
+	</head>
+	<body style="background-color:powderblue;">
+
+
+	<h1 style="text-align:center;border:solid 3px;background-color:pink;border-radius:30px"> Ding Chin Neng</h1>
+	<h2 style="text-align:center;border:solid 3px;background-color:pink;border-radius:30px">Service Engineer</h2>
+
+	<div>
+	<body style='font-size:20fx'>
+	<p>	As a dedicated Electrical Engineer, I bring a wealth of technical expertise and a passion for innovation to the field of electrical 			engineering. My commitment to delivering high-quality solutions is underscored by a solid foundation in electrical systems, coupled with 		hands-on experience in designing and implementing cutting-edge projects.</p>
+
+	<p>	With a Diploma in Electrical Engineering from Maxwell Academic and 8 years of professional experience, I have honed my skills in Low-voltage 		Panel, troubleshooting system control, BMS system, and more. My journey in the field has equipped me with the ability to navigate complex 		engineering challenges and develop robust solutions that meet both technical and practical requirements.</p>
+
+	<p>	Throughout my career, I have actively contributed to the success of projects by leveraging my analytical mindset and attention to detail. 		Whether collaborating with cross-functional teams or independently driving initiatives, I am adept at ensuring the seamless integration of 		electrical systems and optimizing their performance.</p>
+
+	<p>	My proficiency in electrical system, coupled with a commitment to staying abreast of industry advancements, allows me to stay at the 			forefront of technological innovation. I am enthusiastic about applying my skills to contribute meaningfully to projects that push the 			boundaries of electrical engineering.</p>
+
+	<p>	In addition to my technical capabilities, I am known for my strong communication skills, which enable me to convey complex technical 			concepts to diverse audiences. I am eager to bring my problem-solving mindset, collaborative spirit, and dedication to excellence to a 			dynamic team focused on achieving breakthroughs in electrical engineering.</p>
+
+	<p>	I am excited about the opportunity to contribute my skills and passion for innovation to your company. Thank you for considering my 			application. I look forward to the possibility of discussing how my background aligns with your team's goals.</p>
+	</body>
+	</div>
+	
+	<h2>My</h2>
+
+	<div align='center' >
+	<a href="http://wa.me/+6588819387"><button style='background-color:pink;border-color:black;border-radius:30px; font-size:14px'>My Whatsapp</button></a> 
+	
+	<a href="mailto:dingcn@gsm.com.sg?subject=your title&body=TThe 	message">
+    	<button style='background-color:pink;border-color:black;border-radius:30px'>Email ME</button></a>
+	</div>
+
+	</body>
+
+
+</html>
